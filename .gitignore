@@ -1,0 +1,4 @@
+a. .env
+b. .env.backup
+c. /node_modules
+d. /vendor
